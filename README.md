@@ -110,10 +110,6 @@ A final terminou **Espanha 1 x 0 Argentina**, após prorrogação, em 19/07/2026
 - JavaScript
 - Vercel
 
-## ▶️ Como executar
-
-Abra `index.html` em um navegador ou publique os arquivos em um serviço de hospedagem estática.
-
 ## 📚 Fonte dos resultados
 
 Os resultados foram conferidos na página oficial da FIFA sobre a tabela, resultados e fases da Copa do Mundo 2026.
